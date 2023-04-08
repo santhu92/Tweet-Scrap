@@ -2,7 +2,9 @@
 Scraping data from tweeter
 
 Project Title  :  Twitter Scraping
+
 Skills take away From This Project  :  Python scripting, Data Collection, MongoDB, Streamlit
+
 Domain : Social Media
 
 #To run this project in your environment please ensure you have the following installed as pre-requisites.
