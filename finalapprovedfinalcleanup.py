@@ -65,10 +65,10 @@ st.sidebar.title("Download the Scapped Data")
 try:
     st.sidebar.download_button(label='📥 csv',
                                         data=csv,
-                                        file_name= 'train.csv')
+                                        file_name= 'scrap.csv')
     st.sidebar.download_button(label='📥 json',
                                         data=json1,
-                                        file_name= 'train.json')
+                                        file_name= 'scrap.json')
 except BaseException as e:
     pass
 
